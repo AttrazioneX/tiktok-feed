@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 # Now using a new TikTok library https://github.com/Russell-Newton/TikTokPy
 
 # Normal GitHub Pages URL
-# ghPagesURL = "https://attrazionex.github.io/tiktok-rss-flat/"
+# ghPagesURL = https://tiktokrss.conoroneill.com/"
 
 # Custom Domain
 ghPagesURL = "https://attrazionex.github.io/tiktok-rss-flat/"
