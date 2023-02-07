@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 # ghPagesURL = "https://github.com/AttrazioneX/tiktok-rss-flat"
 
 # Custom Domain
-ghPagesURL = "https://tiktokrss.conoroneill.com/"
+ghPagesURL = "https://github.com/AttrazioneX/tiktok-rss-flat"
 
 maxItems = 5
 
